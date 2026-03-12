@@ -12,7 +12,10 @@ void input() {
         if (n <= 20) {
             break;
         } else {
-            cout << "\nArray tidak boleh lebih dari 20\n" << endl;
+            cout << "\nArray tidak boleh lebih dari 20\n." << endl;
         }
     }
+    cout << "====================================" << endl;
+    cout << "======= Masukan elemen array =======" << endl;
+    cout << "====================================" << endl;
 }
