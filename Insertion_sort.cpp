@@ -57,3 +57,10 @@ void Display() {
 
     cout << endl;
 }
+
+int main() {
+    input();
+    insertionSort();
+    Display();
+    //system("pause"); // Only works on windows. Disable this line if yaou're using Linux.
+}
